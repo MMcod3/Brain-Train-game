@@ -1,0 +1,9 @@
+.deck {
+	width: 85%;
+	background: #716F71;
+	padding: 2rem;
+	border-radius: 4px;
+	box-shadow: 9px 7px 23px 0 rgba(40, 61, 53, 0.5);
+	display: flex;
+    justify-content: space-around;
+	flex-wrap: wrap;
